@@ -1,0 +1,1 @@
+sum = 30, diff = 10, prod = 200, quotient = 2
